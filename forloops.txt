@@ -1,0 +1,17 @@
+//For of
+var obj1 = { name: "Person 1", age:5 };
+
+for(let keys of Object.keys(obj1)){
+    console.log(obj1[keys]);
+}
+
+//for in 
+const object = { a: 1, b: 2, c: 3 };
+
+for (const property in object) {
+  console.log(property+" : "+object[property]);
+}
+
+
+
+
