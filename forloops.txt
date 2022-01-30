@@ -12,6 +12,17 @@ for (const property in object) {
   console.log(property+" : "+object[property]);
 }
 
+//for each
+const object = {
+  name: "hello",
+  rank: 1
+};
+
+// Prints "name Jean-Luc Picard" followed by "rank Captain"
+Object.keys(object).forEach(key => {
+  console.log(key, object[key]);
+});
+
 
 
 
