@@ -1,0 +1,19 @@
+[
+  {
+    "Phone": 8903641398,
+    "name": "Susheel Kumaraswamy",
+    "email": "susi31398@gmail.com",
+    "address": {
+      "street": "Swamy Pillai Street",
+      "suite": "791",
+      "city": "Nagercoil",
+      "zipcode": "629001",
+      "Work_exp": {
+        "1": "Infosys Limited"
+      }
+      "Education":{
+      "Xth":"SLB",
+      "XIIth":"Pongesly",
+      "College":"Mepco"
+      }
+    }]
